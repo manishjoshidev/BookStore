@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Step 1:- copy the github repo url
 
 Step 2:- open cmd terminal 
@@ -21,3 +22,7 @@ Step9:- move to frontend
 Step10:- move backend
           npm install 
           npm start
+=======
+# BookStore
+Application created on mern stack for reading books
+>>>>>>> origin/master
