@@ -64,9 +64,15 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+            Welcome to our Free Books section, where a treasure trove of
+            literary gems awaits you at no cost. Dive into a world of classic
+            literature, contemporary fiction, and thought-provoking non-fiction
+            without spending a dime. Our curated selection includes timeless
+            masterpieces, popular novels, and hidden gems that are perfect for
+            avid readers and newcomers alike. Whether you are looking to explore
+            new genres or revisit beloved favorites, our free books collection
+            offers something for everyone. Start your reading journey today and
+            discover the joy of literature without any barriers. Happy reading!
           </p>
         </div>
 
